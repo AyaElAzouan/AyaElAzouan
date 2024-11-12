@@ -4,6 +4,6 @@
 - 📫 How to reach me: aya.elazouan@gmail.com
 - 🌱 I’m currently learning machine learning algorithms, Business Intelligence (BI), and Artificial Intelligence (AI).
 - 💭 Currently learning about data analytics and expanding my knowledge in tech
--  You can find me on [LinkedIn](www.linkedin.com/in/aya-el-azouan-b40892263)
+-  You can find me on [LinkedIn](https://www.linkedin.com/in/aya-el-azouan)
 
 
