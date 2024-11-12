@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning machine learning algorithms, Business Intelligence (BI), and Artificial Intelligence (AI).
 - 💭 Currently learning about data analytics and expanding my knowledge in tech
   ## 🌐 Socials:
-- 📫 How to reach me: aya.elazouan@gmail.com
+<p align="left">
+<a href="https://linkedin.com/in/aya el azouan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya el azouan" height="30" width="40" /></a>
+</p>
 # 📊 GitHub Stats:
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaElAzouan&show_icons=true&theme=radical)
 
